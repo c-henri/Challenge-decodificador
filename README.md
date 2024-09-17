@@ -1,1 +1,1 @@
-# Challenge ONE | Lógica de Programação | Decodificador de texto
+# Challenge ONE - Lógica de Programação - Decodificador de texto
